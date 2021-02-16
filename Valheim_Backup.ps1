@@ -1,4 +1,7 @@
-﻿$char_loc = $home+"\AppData\LocalLow\IronGate\Valheim\characters\vandalore.fch"
+﻿$car_name = "Vandalore"
+$wor_name = "Ragnaroc"
+
+$char_loc = $home+"\AppData\LocalLow\IronGate\Valheim\characters\vandalore.fch"
 $wor_loc = $home+"\AppData\LocalLow\IronGate\Valheim\worlds\ragna*"
 $backup_loc = $home+"\Documents\Valheim_Backup\"
 $date = Get-Date -format "yyyy_MM_dd_hh_mm_ss"
